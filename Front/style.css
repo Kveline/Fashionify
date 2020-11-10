@@ -1,0 +1,77 @@
+@font-face {
+    font-family: "billion";
+    src: url(font/BillionDreams-vmgK9.ttf) format("truetype");
+}
+
+.bg-light {
+    background-color: #ffffff!important;
+}
+
+.icon{
+    height: 30px;
+}
+
+.navbar-light .navbar-brand {
+    color: #FF80AB;
+    font-family: "billion", Verdana, Tahoma;
+    font-size: 3rem;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #F8F8F8;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 2rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #FF80AB !important;
+    border: 0px;
+    border-radius: 2rem;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.navbar{
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+h4{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+h6{
+    font-family: 'Hind', sans-serif;
+}
+h2{
+    font-family: 'Hind', sans-serif;
+}
+.imgt{
+    border-radius: 2rem;
+}
+
+.box{
+    background-color: #F8F8F8;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 2rem;
+
+}
+
+.border{
+    border: 2px;
+}
+
+.thumb{
+    width: 200px;
+}
